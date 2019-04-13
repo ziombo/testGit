@@ -1,2 +1,4 @@
 pierwszy test
 drugi test
+trzeci test
+czwarty test
